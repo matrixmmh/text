@@ -1,11 +1,11 @@
 {
-    "name": "In App Update Flutter Desktop App",
-    "version": 1.22,
+    "name": "Fly Free",
+    "version": 1.1,
     "description": [
         "Added New Screen",
         "Minor Bug Fixes"
     ],
-    "macos_file_name": "installers/macos/in_app_update_flutter.dmg",
+    "macos_file_name": "",
     "windows_file_name": "installers/windows/mysetup.exe",
     "linux_file_name": ""
 }
