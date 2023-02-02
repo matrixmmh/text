@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="2.0" encoding="utf-8"?>
 
     <channel>
         <title>Help Code TJCODE- Appcast</title>
@@ -7,7 +7,7 @@
             <description>desc</description>
             <pubDate>Tue, 08 Jun 2021 12:00:00 +0000</pubDate>
 
-            <enclosure url="https://github.com/matrixmmh/text/releases/download/12-12/Release.rar" sparkle:version="1.0.0" sparkle:os="windows" />
+            <enclosure url="https://github.com/matrixmmh/text/releases/download/12-12/Release.rar" sparkle:version="2.0.0" sparkle:os="windows" />
         </item>
     </channel>
 </rss>
