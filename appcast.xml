@@ -1,7 +1,7 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 <channel>
 <title>Sparkle Test App Changelog</title>
-<link>http://sparkle-project.org/files/sparkletestcast.xml</link>
+<link>https://raw.githubusercontent.com/matrixmmh/text/Ray/appcast.xml</link>
 <description>Most recent changes with links to updates.</description>
 <language>en</language>
 <item>
