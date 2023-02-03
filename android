@@ -7,7 +7,8 @@
     <sparkle:tags>
     <sparkle:criticalUpdate></sparkle:criticalUpdate>
 
-    <sparkle:SUAutomaticallyUpdate>True</SUAutomaticallyUpdate>
+   <pubDate>Sat, 26 Jul 2014 15:20:11 +0000</pubDate>
+
     </sparkle:tags>
     <enclosure url="https://github.com/matrixmmh/text/releases/download/12-12/Release.rar"
                 sparkle:edSignature="7cLALFUHSwvEJWSkV8aMreoBe4fhRa4FncC5NoThKxwThL6FDR7hTiPJh1fo2uagnPogisnQsgFgq6mGkt2RBw=="
