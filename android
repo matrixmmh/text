@@ -1,16 +1,13 @@
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+<channel>
+<title>Sparkle Test App Changelog</title>
+
+<description>Most recent changes with links to updates.</description>
+<language>en</language>
 <item>
-    <title>Version 1.2.4</title>
-    <sparkle:version>1.2.4</sparkle:version>
-    <sparkle:releaseNotesLink>https://www.youtube.com/</sparkle:releaseNotesLink>
-    
-    <link>https://myproductwebsite.com</link>
+<title>Version 2.0</title>
 
-    <sparkle:criticalUpdate></sparkle:criticalUpdate>
-
-    <pubDate>Sat, 26 Jul 2014 15:20:11 +0000</pubDate>
-    <sparkle:minimumAutoupdateVersion>1.2.3</sparkle:minimumAutoupdateVersion>
-    <enclosure url="https://github.com/matrixmmh/text/releases/download/12-12/Release.rar"
-                sparkle:edSignature="7cLALFUHSwvEJWSkV8aMreoBe4fhRa4FncC5NoThKxwThL6FDR7hTiPJh1fo2uagnPogisnQsgFgq6mGkt2RBw=="
-                length="1623481"
-                type="application/octet-stream" />
+<enclosure url="https://github.com/matrixmmh/text/releases/download/12-12/Release.rar" sparkle:version="2.0.0" sparkle:os="windows" />
 </item>
+</channel>
+</rss>
