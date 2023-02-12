@@ -1,12 +1,50 @@
+
 {
-    "name": "Fly Free",
-    "version": 1.1,
-    "description": [
-        "Added New Screen",
-        "Minor Bug Fixes",
-        "xray"
-    ],
-    "macos_file_name": "",
-    "windows_file_name": "aspia-host-2.5.2-x86.msi",
-    "linux_file_name": ""
+
+  "node_id": "RE_kwDOFEUc3M4E8VcG",
+  "tag_name": "1.1.1",
+  "target_commitish": "main",
+  "name": "1.1.1: Fix MacOS Ventura",
+  "draft": false,
+  "prerelease": false,
+  "created_at": "2022-11-13T23:18:13Z",
+  "published_at": "2022-11-13T23:19:41Z",
+  "assets": [
+    {
+      "url": "https://api.github.com/repos/fluttertools/sidekick/releases/assets/85786930",
+      "id": 85786930,
+      "node_id": "RA_kwDOFEUc3M4FHQEy",
+      "name": "sidekick-windows-1.1.1-MS.msix",
+      "label": null,
+      "uploader": {
+        "login": "aguilaair",
+        "id": 29983481,
+        "node_id": "MDQ6VXNlcjI5OTgzNDgx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/29983481?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/aguilaair",
+        "html_url": "https://github.com/aguilaair",
+        "followers_url": "https://api.github.com/users/aguilaair/followers",
+        "following_url": "https://api.github.com/users/aguilaair/following{/other_user}",
+        "gists_url": "https://api.github.com/users/aguilaair/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/aguilaair/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/aguilaair/subscriptions",
+        "organizations_url": "https://api.github.com/users/aguilaair/orgs",
+        "repos_url": "https://api.github.com/users/aguilaair/repos",
+        "events_url": "https://api.github.com/users/aguilaair/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/aguilaair/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "content_type": "application/octet-stream",
+      "state": "uploaded",
+      "size": 13014841,
+      "download_count": 133,
+      "created_at": "2022-11-24T07:01:16Z",
+      "updated_at": "2022-11-24T07:01:29Z",
+      "browser_download_url": "https://github.com/fluttertools/sidekick/releases/download/1.1.1/sidekick-windows-1.1.1-MS.msix"
+    }
+  ],
+
+  "mentions_count": 1
 }
